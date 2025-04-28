@@ -9,3 +9,8 @@
 # Ignore system files
 .DS_Store
 Thumbs.db
+
+# Include important Unity folders (you can remove or adjust as needed)
+!Assets/
+!ProjectSettings/
+!Packages/
