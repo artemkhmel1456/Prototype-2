@@ -1,0 +1,11 @@
+# Ignore Unity specific files
+/Library/
+/Temp/
+/Obj/
+/Build/
+/Builds/
+/UserSettings/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
